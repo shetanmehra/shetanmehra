@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Shetan Mehra
 
-<!--
-**shetanmehra/shetanmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer & Open Source Enthusiast
 
-Here are some ideas to get you started:
+I build modern web applications, AI-powered tools, JavaScript libraries, and developer-focused products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Node.js
+- Laravel
+- PHP
+- Three.js
+- Tailwind CSS
+- MySQL
+- Git & GitHub
+
+### 🔥 Currently Working On
+- 🤖 AI Agent Studio
+- 🌐 AI Website Builder
+- 🎨 JavaScript 3D Effects Library
+- 📦 Open Source Projects
+
+### 🌱 Currently Learning
+- AI Agents
+- System Design
+- Advanced JavaScript
+- Cloud Deployment
+
+### 📫 Connect With Me
+- GitHub: https://github.com/shetanmehra
+- Instagram: @shetanmehra.dev
+
+---
+
+⭐ I enjoy building developer tools, contributing to open source, and creating products that solve real-world problems.
