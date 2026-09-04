@@ -30,7 +30,7 @@ I build modern web applications, AI-powered tools, JavaScript libraries, and dev
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/shetanmehra
-- Instagram: @shetanmehra.dev
+- Instagram: @shetan.ai
 
 ---
 
