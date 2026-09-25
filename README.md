@@ -1,162 +1,263 @@
-
 <h1 align="center">Hi 👋, I'm Shetan Mehra</h1><h3 align="center">
-  Solo Founder & AI Agent Engineer · Building Autonomous Systems & Developer Tools
+  Independent Software Engineer · Systems Builder · Open Source Developer
 </h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Agent+Engineer;Open+Source+Developer;Building+Agent+Studio;Exploring+Systems+Programming+with+Rust" alt="Typing SVG" />
-</p><p align="center">
-  <a href="https://github.com/shetanmehra">
-    <img src="https://img.shields.io/github/followers/shetanmehra?label=Followers&style=flat-square" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/shetanmehra?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source-Projects-38BDF8?style=flat-square" alt="Open Source Projects" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Programming;Learning+Rust+%26+Go;Networking+%26+Distributed+Systems;Linux+%26+Infrastructure" alt="Typing SVG" />
 </p>---
 
-🚀 About Me
+👋 About Me
 
-I'm a self-taught AI software engineer and solo founder focused on building developer tools, AI agent infrastructure, and autonomous software systems.
+I'm a self-taught software engineer and independent developer interested in understanding how software works from the application layer down to the system level.
 
-I started learning technology from the ground up, experimenting with application internals and reverse-engineering on mobile devices before I had my own development machine. That curiosity gradually evolved into building production software, open-source developer tools, and AI agent systems.
+My current direction is increasingly focused on systems programming, networking, distributed systems, Linux, infrastructure, and low-level software engineering.
 
-- 🔭 Currently Building: "Agent Studio" (https://github.com/shetanmehra/agent-studio) — An open-source, node-based platform for building and orchestrating AI agents.
-- 📦 Developer Tools: Creator and maintainer of agentsdk-js, an MIT-licensed TypeScript SDK for building AI agents.
-- 🧠 Focus: AI Agent Architecture, Agent Orchestration, RAG, Tool Calling, Sandboxing, and Distributed Systems.
-- 🦀 Currently Learning: Rust, with a focus on systems programming, networking, concurrency, and low-level architecture.
-- 🐳 Infrastructure: Exploring secure execution environments using Docker, Kata Containers, Kubernetes/K3s, and isolated workloads.
-- 🌍 Mission: Build powerful developer infrastructure that makes advanced AI systems accessible to developers worldwide.
-- ⚡ Fun Fact: I started experimenting with software internals before I ever wrote my first traditional "Hello World."
+I enjoy going beyond frameworks and abstractions to understand the underlying mechanisms — processes, memory, networking, concurrency, operating systems, runtimes, protocols, and distributed communication.
 
----
-
-🧠 What I Build
-
-My work sits at the intersection of AI engineering, developer infrastructure, and systems architecture.
-
-AI Models
-    ↓
-Agent Runtime
-    ↓
-Tools / MCP / APIs
-    ↓
-Agent Orchestration
-    ↓
-Sandboxed Execution
-    ↓
-Distributed Infrastructure
-    ↓
-Developer Applications
-
-I'm particularly interested in systems where multiple models, tools, agents, and execution environments work together as a single programmable platform.
+- 🦀 Learning Rust for systems programming and memory-safe low-level development
+- 🐹 Exploring Go for networking, concurrency, infrastructure, and backend systems
+- 🌐 Studying computer networking and communication protocols
+- 🐧 Working deeper with Linux and system internals
+- ⚙️ Exploring distributed systems and fault-tolerant architectures
+- 📦 Building software infrastructure and developer tools
+- 🔓 Contributing to and maintaining open-source projects
+- 🤖 Exploring AI as one part of modern software systems
 
 ---
 
-🛠️ Technical Arsenal
+🧠 What I'm Learning
 
-Languages & Core Technologies
+I'm currently moving deeper into the layers underneath modern applications.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" />
-</p>Web & Application Development
+Applications
+     ↓
+Backend Services
+     ↓
+Runtime & Concurrency
+     ↓
+Networking & Protocols
+     ↓
+Operating Systems
+     ↓
+Processes / Memory / IPC
+     ↓
+Hardware
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" />
-</p>Infrastructure & Developer Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-</p>AI & Systems
-
-- 🤖 AI Agents & Agentic Workflows
-- 🔗 Model Context Protocol (MCP)
-- 🧩 Multi-provider LLM Architecture
-- 📚 RAG & Knowledge Systems
-- 🛠️ Tool Calling & Function Execution
-- 🔐 Secure Sandboxing & Isolation
-- 🌐 Networking & Distributed Systems
-- ⚙️ Async Jobs & Background Workers
-- 🦀 Rust & Systems Programming — currently learning
+The goal isn't just to use these layers — it's to understand how they work and how they interact.
 
 ---
 
-🔥 Featured Projects
+🦀 Rust
 
-Project| Description| Tech Stack
-"Agent Studio" (https://github.com/shetanmehra/agent-studio)| Open-source node-based platform for building, orchestrating, and deploying AI agents.| TypeScript, React, Node.js
-"agentsdk-js" (https://github.com/shetanmehra/agentsdk-js)| MIT-licensed TypeScript SDK for building production-grade AI agents and agent workflows.| TypeScript, Node.js
-AI Website Builder| AI-powered website generation and development tool for rapid application prototyping.| Next.js, TypeScript, Tailwind
-Agent Infrastructure| Research and experimentation around agent runtimes, tools, sandboxes, and distributed execution.| TypeScript, Docker, Linux, Rust
+Rust is currently one of my main learning areas.
 
----
+I'm exploring Rust to better understand:
 
-🏗️ Current Areas of Research
-
-I'm currently going deeper into the infrastructure underneath modern AI applications:
-
-🤖 Agent Engineering
-
-- Multi-agent architectures
-- Agent routing
-- Long-running workflows
-- Memory and workspace systems
-- Tool execution
-- Human-in-the-loop systems
-- Multi-model orchestration
-
-⚙️ Systems Engineering
-
-- Rust
-- Networking
+- Ownership & borrowing
+- Memory management
+- Lifetimes
 - Concurrency
-- Processes & IPC
-- Linux internals
-- Runtime architecture
-- Distributed systems
+- Async programming
+- Threads & processes
+- Networking
+- Systems programming
+- Error handling
+- Runtime design
+- Performance-oriented software
 
-🔐 Secure Execution
-
-- Container isolation
-- Sandboxed code execution
-- Kata Containers
-- Kubernetes / K3s
-- Ephemeral workloads
-- Per-user execution environments
+Rust
+ ├── Memory Safety
+ ├── Concurrency
+ ├── Networking
+ ├── Async Runtime
+ ├── Systems Programming
+ └── Low-Level Architecture
 
 ---
 
-📊 GitHub Analytics
+🐹 Go
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/shetanmehra/shetanmehra/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/shetanmehra/shetanmehra/main/profile-summary-card-output/github_light/0-profile-details.svg"
-    />
-    <img
-      alt="GitHub Profile Details"
-      src="https://raw.githubusercontent.com/shetanmehra/shetanmehra/main/profile-summary-card-output/tokyonight/0-profile-details.svg"
-    />
-  </picture>
-</div><div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shetanmehra&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</div>---
+I'm also exploring Go for practical systems and infrastructure development.
 
-🌐 Connect With Me
+Areas I'm interested in:
+
+- Goroutines
+- Channels
+- Concurrency
+- TCP/UDP networking
+- HTTP servers
+- Distributed services
+- CLI applications
+- Proxies and relays
+- Infrastructure tooling
+- Cloud-native systems
+
+Go and Rust give me two different perspectives on building reliable systems, and I'm interested in understanding the design trade-offs between them.
+
+---
+
+🌐 Networking
+
+Networking has become a major area of exploration.
+
+I'm studying:
+
+- TCP/IP
+- UDP
+- HTTP/1.1
+- HTTP/2
+- HTTP/3
+- QUIC
+- TLS
+- DNS
+- WebSockets
+- Persistent connections
+- NAT traversal
+- Relays
+- Proxies
+- Client-server architectures
+- Network protocols
+- Connection management
+
+I'm particularly interested in understanding what actually happens between two machines when they communicate.
+
+---
+
+⚙️ Distributed Systems
+
+I'm exploring how independent machines and processes can operate as one system.
+
+Areas of interest:
+
+- Distributed communication
+- Message passing
+- Service discovery
+- Relays
+- Queues
+- Event-driven architectures
+- Fault tolerance
+- Process supervision
+- State management
+- Replication
+- Horizontal scaling
+- Failure recovery
+- Observability
+
+---
+
+🐧 Linux & Systems
+
+Linux is an important part of my current learning path.
+
+I'm exploring:
+
+- Processes
+- Threads
+- Signals
+- IPC
+- Filesystems
+- Sockets
+- Permissions
+- System calls
+- Networking stack
+- Memory management
+- Services & daemons
+- Shell environments
+- Containers
+- Linux networking
+
+I'm especially interested in understanding what happens below the application layer instead of treating the operating system as a black box.
+
+---
+
+🏗️ Infrastructure
+
+I'm interested in building infrastructure that is reliable, isolated, and scalable.
+
+Technologies & Concepts
+
+- 🐳 Docker
+- ☸️ Kubernetes / K3s
+- 🔐 Sandboxing & isolation
+- 🖥️ Virtual machines
+- 🌐 Network infrastructure
+- 🔄 Async workers
+- 📡 Relays
+- ⚡ Event-driven systems
+- 📦 Containerized workloads
+- 🔭 Observability
+- ☁️ Cloud infrastructure
+
+---
+
+💻 Software Engineering
+
+My primary development experience is around the modern TypeScript ecosystem, while increasingly moving toward systems-level engineering.
+
+Current Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" height="42" alt="Go" />
+</p>Web & Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+</p>Infrastructure & Tooling
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+</p>---
+
+🔓 Open Source
+
+I believe open source is one of the best ways to learn, build, and contribute to the software ecosystem.
+
+My interests include:
+
+- Developer tooling
+- Systems software
+- Networking tools
+- Infrastructure
+- Runtime tooling
+- Open-source libraries
+- Developer productivity
+
+I build and maintain projects publicly whenever possible and use open source as a way to experiment with real-world software engineering.
+
+---
+
+🔬 Current Research Areas
+
+┌──────────────────────────────────────┐
+│       Software Engineering           │
+├──────────────────────────────────────┤
+│ Rust          │ Go                   │
+│ Networking    │ Distributed Systems  │
+│ Linux         │ Infrastructure       │
+│ Concurrency   │ Systems Programming  │
+│ Open Source   │ Runtime Architecture │
+└──────────────────────────────────────┘
+
+I'm currently spending most of my learning time understanding the relationship between these areas rather than focusing on a single framework or technology.
+
+---
+
+📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shetanmehra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetanmehra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>---
+
+🌐 Connect
 
 <p align="center">
   <a href="https://github.com/shetanmehra">
@@ -168,7 +269,5 @@ I'm currently going deeper into the infrastructure underneath modern AI applicat
 </p>---
 
 <p align="center">
-  <i>Building AI systems, developer infrastructure, and open-source tools — one layer at a time. ⚙️</i>
-</p><p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <i>Understanding systems, building software, and learning how the layers underneath actually work. ⚙️🦀🐹</i>
 </p>
