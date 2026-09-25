@@ -1,104 +1,134 @@
 <h1 align="center">Hi 👋, I'm Shetan Mehra</h1><h3 align="center">
-  Independent Software Engineer · Systems Builder · Open Source Developer
+  Full-Stack Software Engineer · Systems Builder · Open Source Developer
 </h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Programming;Learning+Rust+%26+Go;Networking+%26+Distributed+Systems;Linux+%26+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Building+Web+Applications;Exploring+Rust+%26+Systems+Programming;Networking+%26+Distributed+Systems;Linux+%26+Infrastructure" alt="Typing SVG" />
 </p>---
 
 👋 About Me
 
-I'm a self-taught software engineer and independent developer interested in understanding how software works from the application layer down to the system level.
+I'm a self-taught full-stack software engineer and independent developer who enjoys building complete software systems — from frontend interfaces and APIs to databases, infrastructure, networking, and deployment.
 
-My current direction is increasingly focused on systems programming, networking, distributed systems, Linux, infrastructure, and low-level software engineering.
+My current journey is also taking me deeper into systems programming and infrastructure, with a particular interest in Rust, Linux, networking, concurrency, and distributed systems.
 
-I enjoy going beyond frameworks and abstractions to understand the underlying mechanisms — processes, memory, networking, concurrency, operating systems, runtimes, protocols, and distributed communication.
-
-- 🦀 Learning Rust for systems programming and memory-safe low-level development
-- 🐹 Exploring Go for networking, concurrency, infrastructure, and backend systems
-- 🌐 Studying computer networking and communication protocols
-- 🐧 Working deeper with Linux and system internals
-- ⚙️ Exploring distributed systems and fault-tolerant architectures
-- 📦 Building software infrastructure and developer tools
-- 🔓 Contributing to and maintaining open-source projects
-- 🤖 Exploring AI as one part of modern software systems
+- 💻 Full-Stack Development: Building complete web applications from frontend to backend and infrastructure
+- 🧩 Backend Engineering: APIs, services, databases, authentication, background jobs, and integrations
+- ⚛️ Frontend Engineering: React, Next.js, and modern TypeScript applications
+- 🐘 PHP Development: PHP and Laravel applications and APIs
+- 🐍 Python Development: Python and FastAPI for backend services and tooling
+- 🦀 Currently Learning: Rust and systems programming
+- 🌐 Exploring: Networking, distributed systems, Linux, and infrastructure
+- 📦 Open Source: Building and maintaining developer tools and libraries
 
 ---
 
-🧠 What I'm Learning
+🧠 My Engineering Direction
 
-I'm currently moving deeper into the layers underneath modern applications.
+I work across multiple layers of software:
 
-Applications
-     ↓
-Backend Services
-     ↓
-Runtime & Concurrency
-     ↓
-Networking & Protocols
-     ↓
-Operating Systems
-     ↓
-Processes / Memory / IPC
-     ↓
-Hardware
+┌─────────────────────────────────────┐
+│          User Interfaces             │
+│       React / Next.js / JS           │
+├─────────────────────────────────────┤
+│          Application Layer           │
+│     TypeScript / PHP / Python        │
+├─────────────────────────────────────┤
+│             Backend                  │
+│ Laravel / FastAPI / Node.js / APIs  │
+├─────────────────────────────────────┤
+│          Infrastructure              │
+│ Docker / Linux / Deployment          │
+├─────────────────────────────────────┤
+│         Systems & Networking         │
+│ Rust / TCP / HTTP / IPC / Protocols │
+├─────────────────────────────────────┤
+│       Distributed Architecture       │
+│   Services / Relays / Concurrency    │
+└─────────────────────────────────────┘
 
-The goal isn't just to use these layers — it's to understand how they work and how they interact.
+I enjoy understanding how these layers connect rather than working with any single layer in isolation.
 
 ---
 
-🦀 Rust
+🛠️ Technical Stack
 
-Rust is currently one of my main learning areas.
+💻 Languages
 
-I'm exploring Rust to better understand:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" />
+</p>⚛️ Frontend
 
-- Ownership & borrowing
-- Memory management
-- Lifetimes
-- Concurrency
-- Async programming
-- Threads & processes
-- Networking
-- Systems programming
-- Error handling
-- Runtime design
-- Performance-oriented software
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+</p>- React
+- Next.js
+- TypeScript
+- JavaScript
+- Modern Web APIs
+- Responsive Web Applications
+
+⚙️ Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+</p>- PHP
+- Laravel
+- Python
+- FastAPI
+- TypeScript / Node.js
+- REST APIs
+- Authentication & Authorization
+- Background Jobs
+- Third-Party Integrations
+
+🐧 Infrastructure & Tooling
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+</p>- Linux
+- Docker
+- Kubernetes / K3s
+- Git
+- CLI & Shell
+- Deployment & Server Management
+
+---
+
+🦀 Systems Programming
+
+I'm currently expanding beyond application-level development into lower-level software engineering.
 
 Rust
- ├── Memory Safety
- ├── Concurrency
- ├── Networking
- ├── Async Runtime
- ├── Systems Programming
- └── Low-Level Architecture
 
----
+Currently learning and exploring:
 
-🐹 Go
-
-I'm also exploring Go for practical systems and infrastructure development.
-
-Areas I'm interested in:
-
-- Goroutines
-- Channels
+- Ownership & Borrowing
+- Memory Safety
+- Lifetimes
 - Concurrency
-- TCP/UDP networking
-- HTTP servers
-- Distributed services
-- CLI applications
-- Proxies and relays
-- Infrastructure tooling
-- Cloud-native systems
-
-Go and Rust give me two different perspectives on building reliable systems, and I'm interested in understanding the design trade-offs between them.
+- Async Programming
+- Networking
+- Processes & Threads
+- Systems Programming
+- Runtime Architecture
+- Performance-Oriented Software
 
 ---
 
 🌐 Networking
 
-Networking has become a major area of exploration.
+I'm interested in understanding how systems communicate at the protocol level.
 
-I'm studying:
+Areas I'm exploring:
 
 - TCP/IP
 - UDP
@@ -109,143 +139,100 @@ I'm studying:
 - TLS
 - DNS
 - WebSockets
-- Persistent connections
-- NAT traversal
+- Persistent Connections
+- NAT Traversal
 - Relays
 - Proxies
-- Client-server architectures
-- Network protocols
-- Connection management
-
-I'm particularly interested in understanding what actually happens between two machines when they communicate.
+- Client-Server Architecture
+- Network Protocols
 
 ---
 
 ⚙️ Distributed Systems
 
-I'm exploring how independent machines and processes can operate as one system.
+I'm exploring architectures where multiple processes, services, and machines communicate as a larger system.
 
 Areas of interest:
 
 - Distributed communication
 - Message passing
-- Service discovery
-- Relays
-- Queues
-- Event-driven architectures
+- Event-driven systems
+- Concurrency
 - Fault tolerance
 - Process supervision
+- Service discovery
+- Queues & workers
 - State management
-- Replication
-- Horizontal scaling
 - Failure recovery
-- Observability
+- Horizontal scaling
+- Remote execution
 
 ---
 
 🐧 Linux & Systems
 
-Linux is an important part of my current learning path.
+Linux is an important part of my deeper engineering journey.
 
 I'm exploring:
 
-- Processes
-- Threads
+- Processes & Threads
 - Signals
 - IPC
 - Filesystems
 - Sockets
 - Permissions
-- System calls
-- Networking stack
-- Memory management
-- Services & daemons
-- Shell environments
+- System Calls
+- Memory Management
+- Linux Networking
+- Services & Daemons
 - Containers
-- Linux networking
-
-I'm especially interested in understanding what happens below the application layer instead of treating the operating system as a black box.
+- System Administration
 
 ---
-
-🏗️ Infrastructure
-
-I'm interested in building infrastructure that is reliable, isolated, and scalable.
-
-Technologies & Concepts
-
-- 🐳 Docker
-- ☸️ Kubernetes / K3s
-- 🔐 Sandboxing & isolation
-- 🖥️ Virtual machines
-- 🌐 Network infrastructure
-- 🔄 Async workers
-- 📡 Relays
-- ⚡ Event-driven systems
-- 📦 Containerized workloads
-- 🔭 Observability
-- ☁️ Cloud infrastructure
-
----
-
-💻 Software Engineering
-
-My primary development experience is around the modern TypeScript ecosystem, while increasingly moving toward systems-level engineering.
-
-Current Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" height="42" alt="Go" />
-</p>Web & Backend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-</p>Infrastructure & Tooling
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-</p>---
 
 🔓 Open Source
 
-I believe open source is one of the best ways to learn, build, and contribute to the software ecosystem.
+I believe building in public and contributing to open source is one of the best ways to learn real-world software engineering.
 
-My interests include:
+My open-source interests include:
 
-- Developer tooling
+- Developer tools
+- Web frameworks & libraries
 - Systems software
 - Networking tools
 - Infrastructure
+- CLI applications
 - Runtime tooling
-- Open-source libraries
 - Developer productivity
-
-I build and maintain projects publicly whenever possible and use open source as a way to experiment with real-world software engineering.
 
 ---
 
-🔬 Current Research Areas
+🔬 Current Learning
 
-┌──────────────────────────────────────┐
-│       Software Engineering           │
-├──────────────────────────────────────┤
-│ Rust          │ Go                   │
-│ Networking    │ Distributed Systems  │
-│ Linux         │ Infrastructure       │
-│ Concurrency   │ Systems Programming  │
-│ Open Source   │ Runtime Architecture │
-└──────────────────────────────────────┘
-
-I'm currently spending most of my learning time understanding the relationship between these areas rather than focusing on a single framework or technology.
+FULL-STACK ENGINEERING
+        │
+        ├── Frontend
+        │   ├── React
+        │   └── Next.js
+        │
+        ├── Backend
+        │   ├── Laravel
+        │   ├── FastAPI
+        │   └── Node.js
+        │
+        ├── Systems
+        │   └── Rust
+        │
+        ├── Infrastructure
+        │   ├── Linux
+        │   ├── Docker
+        │   └── Kubernetes
+        │
+        └── Networking
+            ├── TCP/IP
+            ├── HTTP
+            ├── QUIC
+            └── Distributed Systems
 
 ---
 
@@ -257,7 +244,7 @@ I'm currently spending most of my learning time understanding the relationship b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetanmehra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>---
 
-🌐 Connect
+🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/shetanmehra">
@@ -269,5 +256,5 @@ I'm currently spending most of my learning time understanding the relationship b
 </p>---
 
 <p align="center">
-  <i>Understanding systems, building software, and learning how the layers underneath actually work. ⚙️🦀🐹</i>
+  <i>Building software across the stack — from web applications to systems and infrastructure. ⚙️🦀</i>
 </p>
